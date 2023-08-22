@@ -6,9 +6,9 @@
 
 - 🏨 I'm from India.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures & Algorithms and react.js **
 
-- 💬 Ask me about **React ,Web development chess ,music etc**
+- 💬 Ask me about **Web development chess ,music etc**
 
 - 📫 You can reach me out via [shivampandey99242@gmail.com](mailto:shivampandey99242@gmail.com)
 
