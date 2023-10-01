@@ -29,7 +29,7 @@
 <h3 align="left">Languages[ and Tools:</h3>
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/c.svg"  alt="c++" width="40" height="40"/>
-<img src="[https://cdn.worldvectorlogo.com/logos/figma-5.svg](https://s3-alpha.figma.com/hub/file/2714532645/a552ea5c-29b8-444a-b94b-f349d1e98ac8-cover.png)"  alt="figma" width="40" height="40"/>
+<img src="[[https://cdn.worldvectorlogo.com/logos/figma-5.svg](https://s3-alpha.figma.com/hub/file/2714532645/a552ea5c-29b8-444a-b94b-f349d1e98ac8-cover.png)](https://cdn.iconscout.com/icon/free/png-512/free-figma-2296071-1912030.png?f=avif&w=256)"  alt="figma" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"  alt="firebase" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg"  alt="java" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"  alt="javascript" width="40" height="40"/>
