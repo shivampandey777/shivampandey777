@@ -7,7 +7,7 @@
 
 - 🏨 I'm from India.
 
-- 🌱 I’m currently learning **Data Structures & Algorithms and react.js **
+- 🌱 I’m currently learning **Data Structures & Algorithms **
 
 - 💬 Ask me about **Web development chess ,music etc**
 
