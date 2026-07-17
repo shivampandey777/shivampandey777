@@ -7,7 +7,7 @@
 
 - 🏨 I'm from India.
 
-- 🌱 I’m currently learning **Data Structures & Algorithms **
+- 🌱 I’m currently learning **AI/ML and how can we integrate it with spring boot eco systems**
 
 - 💬 Ask me about **Web development chess ,music etc**
 
