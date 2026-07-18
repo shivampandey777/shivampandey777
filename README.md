@@ -17,30 +17,6 @@
 | **Weather Intelligence Platform** | Ask 50+ years of weather data questions in plain English — LLM-powered NL2SQL over a PostgreSQL + S3 data-lake pipeline with hourly ingestion | Next.js · PostgreSQL · S3 · Lambda · LLMs |
 | **RAG Chatbot — Spring AI** | Retrieval-augmented chatbot with OpenAI embeddings, Pinecone/pgvector semantic search & SSE streaming for low-latency answers | Spring Boot · Spring AI · Pinecone · pgvector |
 
-## 📊 Live GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shivampandey777.vercel.app/api?username=shivampandey777&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=7ee787">
-  <img src="https://github-readme-stats-shivampandey777.vercel.app/api?username=shivampandey777&show_icons=true&hide_border=true" alt="GitHub stats" height="165">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shivampandey777.vercel.app/api/top-langs/?username=shivampandey777&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff">
-  <img src="https://github-readme-stats-shivampandey777.vercel.app/api/top-langs/?username=shivampandey777&layout=compact&hide_border=true" alt="Top languages" height="165">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shivampandey777&theme=github-dark-blue&hide_border=true&background=0d1117">
-  <img src="https://streak-stats.demolab.com?user=shivampandey777&hide_border=true" alt="Contribution streak">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivampandey777/shivampandey777/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/shivampandey777/shivampandey777/output/github-snake.svg" alt="Contribution graph snake animation">
-</picture>
-
-</div>
 
 ## 🤝 Connect With Me
 
