@@ -1,42 +1,55 @@
-<p  align="center" ><img  alt="coding" width="400" src="https://i.giphy.com/SWoSkN6DxTszqIKEqv.webp"></p>
+<div align="center">
 
-<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivam</h1>
-<h3 align="center">A passionate developer </h3>
+<!-- Animated developer profile · pure SVG/CSS · no JS · dark & light adaptive -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-light.svg">
+  <img src="profile-dark.svg" alt="Shivam Pandey — Software Developer at Summertown Software. Full-Stack (Java, Spring Boot, React, Next.js) × Applied AI (RAG, NL2SQL, Pinecone) on AWS. Contact: shivampandey99242@gmail.com" width="100%">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivampandey777&label=Profile%20views&color=0e75b6&style=flat" alt="shivampandey777" /> </p>
+</div>
 
-- 🏨 I'm from India.
+## ⭐ Featured Projects
 
-- 🌱 I’m currently learning **AI/ML and how can we integrate it with spring boot eco systems**
+| Project | What it does | Built with |
+|---------|--------------|------------|
+| **Bedrock Router Platform** | Serverless AI gateway — one-click deployment & unified access to Amazon Bedrock foundation models, with a dashboard for request monitoring, token usage & cost analytics | Next.js · AWS Lambda · PostgreSQL · Bedrock · CDK |
+| **Weather Intelligence Platform** | Ask 50+ years of weather data questions in plain English — LLM-powered NL2SQL over a PostgreSQL + S3 data-lake pipeline with hourly ingestion | Next.js · PostgreSQL · S3 · Lambda · LLMs |
+| **RAG Chatbot — Spring AI** | Retrieval-augmented chatbot with OpenAI embeddings, Pinecone/pgvector semantic search & SSE streaming for low-latency answers | Spring Boot · Spring AI · Pinecone · pgvector |
 
-- 💬 Ask me about **Web development chess ,music etc**
+## 📊 Live GitHub Stats
 
-- 📫 You can reach me out via [shivampandey99242@gmail.com](mailto:shivampandey99242@gmail.com)
+<div align="center">
 
-- 📫 How to find me:
-  - 📧 [Mail](mailto:shivampandey99242@gmail.com)
-  - 💼 [LinkedIn](https://www.linkedin.com/in/shivam-pandey-b0820521b/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shivampandey777&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=7ee787">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivampandey777&show_icons=true&hide_border=true" alt="GitHub stats" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shivampandey777&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivampandey777&layout=compact&hide_border=true" alt="Top languages" height="165">
+</picture>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shivampandey777&theme=github-dark-blue&hide_border=true&background=0d1117">
+  <img src="https://streak-stats.demolab.com?user=shivampandey777&hide_border=true" alt="Contribution streak">
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivampandey777/shivampandey777/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/shivampandey777/shivampandey777/output/github-snake.svg" alt="Contribution graph snake animation">
+</picture>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivam pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam pandey" height="30" width="40" /></a>
-</p>
+</div>
 
+## 🤝 Connect With Me
 
-<h3 align="left">Languages[ and Tools:</h3>
-<p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg"  alt="c++" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"  alt="firebase" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg"  alt="java" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"  alt="javascript" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg"  alt="react" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg"  alt="netlify" width="40" height="40"/>
-</p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivampandey777&show_icons=true&locale=en&layout=compact" alt="shivampandey777" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivampandey76230)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivampandey99242@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white)](https://shivampandey.vercel.app)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivampandey777&" alt="shivampandey777" /></p>
+<sub>⚡ Profile art is a hand-built animated SVG — no JavaScript, fully GitHub-native.</sub>
+
+</div>
